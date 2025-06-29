@@ -10,7 +10,7 @@ engineering to create new informative features, such as proximity scores to impo
 facilities.
 
 4. Model Selection:
-Choose appropriate regression algorithms for the task, such as linear regression,
+Choose appropriate regression algorithms for the task, such as linear regression,  
 decision trees, random forests, gradient boosting, or neural networks. Consider
 ensembling or stacking multiple models for improved performance.
 
