@@ -1,7 +1,7 @@
 # Smart-Predictive-Modeling-for-Rental-Property-Prices
 
 Data Preprocessing:
-Clean and preprocess the features and historical rental prices data, handling missing 
+Clean and preprocess the features and historical rental prices data, handling missing  
 values, outliers, and encoding categorical variables.
 
 2. Feature Selection and Engineering:
