@@ -4,7 +4,7 @@ Data Preprocessing:
 Clean and preprocess the features and historical rental prices data, handling missing   
 values, outliers, and encoding categorical variables.
 
-2. Feature Selection and Engineering:
+2. Feature Selection and Engineering: 
 Identify key features that significantly influence rental prices. Perform feature 
 engineering to create new informative features, such as proximity scores to important    
 facilities.
